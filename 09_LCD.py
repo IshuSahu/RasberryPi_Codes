@@ -1,5 +1,3 @@
-# sudo raspi-config
-# sudo i2cdetect -y 1
 
 import drivers
 from time import sleep
