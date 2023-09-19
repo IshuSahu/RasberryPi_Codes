@@ -1,10 +1,9 @@
 import RPi.GPIO as GPIO
 import time
  
-#GPIO Mode (BOARD / BCM)
+
 GPIO.setmode(GPIO.BCM)
  
-#set GPIO Pins
 TRIGGER_PIN = 20
 ECHO_PIN = 21
  
